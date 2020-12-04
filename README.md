@@ -10,4 +10,3 @@ I wrote this after reading this [article](http://lifehacker.com/5715794/how-to-w
 I do not use this technique myself nor can I make any guarantees of how secure this method is.
 
 If you do want to use the generated table, change the seed value before generating.
-
